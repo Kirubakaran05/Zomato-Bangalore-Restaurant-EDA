@@ -1,4 +1,4 @@
-# 🍽️ Zomato Bangalore Dataset - Exploratory Data Analysis & Visualization
+# 🍽️ Zomato Bangalore Restaurant EDA
 
 An exploratory data analysis (EDA) project in Python exploring over 50,000 restaurant listings across Bengaluru from Zomato. This project focuses on data cleaning, feature engineering, geographical analysis, and identifying business insights for restaurant owners, platforms, and food industry investors.
 
@@ -6,7 +6,7 @@ An exploratory data analysis (EDA) project in Python exploring over 50,000 resta
 
 ## 📌 Links & References
 
-* **Source Code Notebook:** [GitHub Repository Code](https://github.com/Kirubakaran05/Zomato-Analysis-on-Python/blob/main/zomato-data-set-analysis-visualization.ipynb)
+* **Source Code Notebook:** [GitHub Repository Code](https://github.com/Kirubakaran05/Zomato-Bangalore-Restaurant-EDA/blob/main/zomato-data-set-analysis-visualization.ipynb)
 * **Original Dataset:** [Kaggle Dataset Source](https://www.kaggle.com/code/akshitmadan/zomato-data-set-analysis-visualization/input)
 
 ---
@@ -65,9 +65,9 @@ The original Kaggle dataset consists of 17 attributes and over 51,000 records (`
 
 ---
 
-## 🚀 How to Run locally
+## 🚀 How to Run Locally
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Kirubakaran05/Zomato-Analysis-on-Python.git](https://github.com/Kirubakaran05/Zomato-Analysis-on-Python.git)
-cd Zomato-Analysis-on-Python
+git clone [https://github.com/Kirubakaran05/Zomato-Bangalore-Restaurant-EDA.git](https://github.com/Kirubakaran05/Zomato-Bangalore-Restaurant-EDA.git)
+cd Zomato-Bangalore-Restaurant-EDA
